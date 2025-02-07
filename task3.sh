@@ -2,7 +2,7 @@
 set -e  # Остановка при ошибке
 
 # --- Конфигурация ---
-YC_FOLDER_ID="b1gaie1vs6mtv67qqjrs"
+YC_FOLDER_ID=""
 YC_ZONE="ru-central1-b"
 YC_SUBNET_NAME="jmix-subnet"
 YC_VM_NAME="jmix-vm"
